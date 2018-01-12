@@ -1,5 +1,5 @@
 # Vagrant-Launcher
-Start Vagrant and VirtualBox with 1 click!(Windows bat file.)
+Start Vagrant and VirtualBox with 1 click!(Windows batchfile.)
 
 ## 1.Write path of your environment into config.bat file.
 
