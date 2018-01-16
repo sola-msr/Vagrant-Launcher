@@ -19,4 +19,4 @@ cd %PROJECT_DIR%
 echo vagrant up command execute.
 vagrant up
 
-cmd /k cd %PROJECTDIR%
+cmd /k cd %PROJECT_DIR%
